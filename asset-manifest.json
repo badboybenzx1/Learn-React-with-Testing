@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Learn-React-with-Testing/static/css/main.073c9b0a.css",
-    "main.js": "/Learn-React-with-Testing/static/js/main.8f83c48a.js",
+    "main.css": "/Learn-React-with-Testing/static/css/main.5d3f70bf.css",
+    "main.js": "/Learn-React-with-Testing/static/js/main.e1d793a7.js",
     "static/js/787.c0cbf5cc.chunk.js": "/Learn-React-with-Testing/static/js/787.c0cbf5cc.chunk.js",
     "index.html": "/Learn-React-with-Testing/index.html",
-    "main.073c9b0a.css.map": "/Learn-React-with-Testing/static/css/main.073c9b0a.css.map",
-    "main.8f83c48a.js.map": "/Learn-React-with-Testing/static/js/main.8f83c48a.js.map",
+    "main.5d3f70bf.css.map": "/Learn-React-with-Testing/static/css/main.5d3f70bf.css.map",
+    "main.e1d793a7.js.map": "/Learn-React-with-Testing/static/js/main.e1d793a7.js.map",
     "787.c0cbf5cc.chunk.js.map": "/Learn-React-with-Testing/static/js/787.c0cbf5cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8f83c48a.js"
+    "static/css/main.5d3f70bf.css",
+    "static/js/main.e1d793a7.js"
   ]
 }
